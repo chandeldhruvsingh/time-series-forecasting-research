@@ -1,6 +1,4 @@
 
-Sure, here's your content in Markdown format:
-
 ### Model 1 (ARIMA)
 
 Model 1 is based on the ARIMA algorithm for stock price forecasting.
@@ -72,4 +70,4 @@ Model 4 uses the Prophet library for stock price prediction.
 3. Run the script: `python model4.py`.
 
 **Results**
-- The Root Mean Squared Error (RMSE) for the forecast
+- The Root Mean Squared Error (RMSE) for the forecast 23,09
