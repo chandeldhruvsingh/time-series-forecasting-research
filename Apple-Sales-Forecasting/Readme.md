@@ -6,7 +6,7 @@ Overview
     • Language: Python.
     • Libraries: pandas, numpy, matplotlib, yfinance.
 Usage
-    1. Install the required libraries if not already installed: pip install pandas numpy matplotlib yfinance.
+    1. Install the required libraries if not already installed: pip install pandas numpy matplotlib yfinance. 
     2. Modify the stock_symbol, start_date, end_date, and order in the script as per your requirements.
     3. Run the script: python ARIMA_METHOD.py.
 Results
