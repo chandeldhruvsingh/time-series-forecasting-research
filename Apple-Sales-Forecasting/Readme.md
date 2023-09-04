@@ -15,7 +15,7 @@ Model 1 is based on the ARIMA algorithm for stock price forecasting.
 3. Run the script: `python ARIMA_METHOD.py`.
 
 **Results**
-- The Root Mean Squared Error (RMSE) for the forecasted stock prices: 17.86.
+- The Root Mean Squared Error (RMSE) for the forecasted stock prices: 17.85.
 
 ### Model 2 (LSTM)
 
@@ -34,7 +34,7 @@ Model 2 uses Long Short-Term Memory (LSTM) networks for stock price prediction.
 4. Run the script: `python LSTM_Using_Feature_Extraction_Selection.py`.
 
 **Results**
-- The Root Mean Squared Error (RMSE) for the forecasted stock prices: 4.35.
+- The Root Mean Squared Error (RMSE) for the forecasted stock prices: 3.96.
 
 ### Model 3 (XGBoost)
 
