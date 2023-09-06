@@ -16,7 +16,7 @@ Libraries: pandas, numpy, matplotlib, prophet.
 Usage
 Install the required libraries if not already installed: pip install pandas numpy matplotlib prophet.
 Modify the features as per your requirements.
-Run the script: python Prophet_algorithm.ipynb
+Run the script: python Prophet_algorithm.ipynb.
 
 Results
 The Root Mean Squared Error (RMSE) for the forecasted sales: 1087.55
