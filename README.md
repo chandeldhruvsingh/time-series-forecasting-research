@@ -1,4 +1,4 @@
-# Data Analysis in the Cloud Research Repository
+# Time Series Forecasting with LSTM, ARIMA, Prophet, and XGBoost
 
 Welcome to the "Data Analysis in the Cloud" research repository. This repository contains the code and findings from our research project focused on time series forecasting using various algorithms on five different datasets. 
 
